@@ -1,0 +1,1332 @@
+{
+  "meta": {
+    "thang": 8,
+    "nam": 2026,
+    "so_ngay": 31,
+    "ngay_cuoi": 31
+  },
+  "du_lieu": {
+    "ca2": {
+      "chi_so": {
+        "tong_doanh_thu": 1782479473,
+        "tong_hoa_don": 2240,
+        "tb_hoa_don": 795749,
+        "tb_doanh_thu_ngay": 57499337,
+        "tb_hoa_don_ngay": 72.3,
+        "so_ngay": 31
+      },
+      "theo_ngay": [
+        {
+          "ngay": "1/8",
+          "dt": 53373720
+        },
+        {
+          "ngay": "2/8",
+          "dt": 58322290
+        },
+        {
+          "ngay": "3/8",
+          "dt": 43611440
+        },
+        {
+          "ngay": "4/8",
+          "dt": 61759380
+        },
+        {
+          "ngay": "5/8",
+          "dt": 52757038
+        },
+        {
+          "ngay": "6/8",
+          "dt": 46703560
+        },
+        {
+          "ngay": "7/8",
+          "dt": 57658390
+        },
+        {
+          "ngay": "8/8",
+          "dt": 60189350
+        },
+        {
+          "ngay": "9/8",
+          "dt": 58534655
+        },
+        {
+          "ngay": "10/8",
+          "dt": 55268460
+        },
+        {
+          "ngay": "11/8",
+          "dt": 59438070
+        },
+        {
+          "ngay": "12/8",
+          "dt": 71926760
+        },
+        {
+          "ngay": "13/8",
+          "dt": 72422280
+        },
+        {
+          "ngay": "14/8",
+          "dt": 65907845
+        },
+        {
+          "ngay": "15/8",
+          "dt": 81355990
+        },
+        {
+          "ngay": "16/8",
+          "dt": 61277824
+        },
+        {
+          "ngay": "17/8",
+          "dt": 41165150
+        },
+        {
+          "ngay": "18/8",
+          "dt": 55835474
+        },
+        {
+          "ngay": "19/8",
+          "dt": 54158130
+        },
+        {
+          "ngay": "20/8",
+          "dt": 55096055
+        },
+        {
+          "ngay": "21/8",
+          "dt": 73233460
+        },
+        {
+          "ngay": "22/8",
+          "dt": 65015420
+        },
+        {
+          "ngay": "23/8",
+          "dt": 60401345
+        },
+        {
+          "ngay": "24/8",
+          "dt": 38855740
+        },
+        {
+          "ngay": "25/8",
+          "dt": 50362750
+        },
+        {
+          "ngay": "26/8",
+          "dt": 51876285
+        },
+        {
+          "ngay": "27/8",
+          "dt": 55124510
+        },
+        {
+          "ngay": "28/8",
+          "dt": 15758460
+        },
+        {
+          "ngay": "29/8",
+          "dt": 98441840
+        },
+        {
+          "ngay": "30/8",
+          "dt": 60534782
+        },
+        {
+          "ngay": "31/8",
+          "dt": 46113020
+        }
+      ],
+      "theo_gio": [
+        {
+          "gio": 9,
+          "hd": 1,
+          "dt": 2666700,
+          "tb": 2666700
+        },
+        {
+          "gio": 10,
+          "hd": 10,
+          "dt": 12010880,
+          "tb": 1201088
+        },
+        {
+          "gio": 11,
+          "hd": 59,
+          "dt": 38258570,
+          "tb": 648450
+        },
+        {
+          "gio": 12,
+          "hd": 274,
+          "dt": 237456124,
+          "tb": 866628
+        },
+        {
+          "gio": 13,
+          "hd": 321,
+          "dt": 294167435,
+          "tb": 916409
+        },
+        {
+          "gio": 14,
+          "hd": 139,
+          "dt": 102616440,
+          "tb": 738248
+        },
+        {
+          "gio": 15,
+          "hd": 69,
+          "dt": 41440630,
+          "tb": 600589
+        },
+        {
+          "gio": 16,
+          "hd": 64,
+          "dt": 36949160,
+          "tb": 577331
+        },
+        {
+          "gio": 17,
+          "hd": 72,
+          "dt": 45446520,
+          "tb": 631202
+        },
+        {
+          "gio": 18,
+          "hd": 160,
+          "dt": 110045022,
+          "tb": 687781
+        },
+        {
+          "gio": 19,
+          "hd": 321,
+          "dt": 257850595,
+          "tb": 803273
+        },
+        {
+          "gio": 20,
+          "hd": 421,
+          "dt": 361574357,
+          "tb": 858846
+        },
+        {
+          "gio": 21,
+          "hd": 313,
+          "dt": 228957640,
+          "tb": 731494
+        },
+        {
+          "gio": 22,
+          "hd": 16,
+          "dt": 13039400,
+          "tb": 814962
+        }
+      ],
+      "thu_trong_tuan": [
+        {
+          "thu": "T2",
+          "dt": 225013810,
+          "hd": 280,
+          "tb": 803621
+        },
+        {
+          "thu": "T3",
+          "dt": 227395674,
+          "hd": 282,
+          "tb": 806368
+        },
+        {
+          "thu": "T4",
+          "dt": 230718213,
+          "hd": 293,
+          "tb": 787434
+        },
+        {
+          "thu": "T5",
+          "dt": 229346405,
+          "hd": 301,
+          "tb": 761948
+        },
+        {
+          "thu": "T6",
+          "dt": 212558155,
+          "hd": 260,
+          "tb": 817531
+        },
+        {
+          "thu": "T7",
+          "dt": 358376320,
+          "hd": 446,
+          "tb": 803534
+        },
+        {
+          "thu": "CN",
+          "dt": 299070896,
+          "hd": 378,
+          "tb": 791193
+        }
+      ],
+      "ngay_thuong_cuoi_tuan": [
+        {
+          "loai": "Ngày thường",
+          "dt": 1125032257,
+          "hd": 1416,
+          "tb": 794514
+        },
+        {
+          "loai": "Cuối tuần",
+          "dt": 657447216,
+          "hd": 824,
+          "tb": 797872
+        }
+      ],
+      "buoi": [
+        {
+          "buoi": "Buổi trưa (10–15h)",
+          "dt": 684509449,
+          "hd": 803,
+          "tb": 852440
+        },
+        {
+          "buoi": "Buổi tối (17–22h)",
+          "dt": 1016913534,
+          "hd": 1303,
+          "tb": 780440
+        }
+      ],
+      "buoi_ngay": [
+        {
+          "nhan": "Trưa ngày thường",
+          "dt": 466634134,
+          "hd": 542,
+          "tb": 860948
+        },
+        {
+          "nhan": "Trưa cuối tuần",
+          "dt": 217875315,
+          "hd": 261,
+          "tb": 834771
+        },
+        {
+          "nhan": "Tối ngày thường",
+          "dt": 613191993,
+          "hd": 801,
+          "tb": 765533
+        },
+        {
+          "nhan": "Tối cuối tuần",
+          "dt": 403721541,
+          "hd": 502,
+          "tb": 804226
+        }
+      ],
+      "kenh": [
+        {
+          "kenh": "Tại quán",
+          "dt": 1689195583,
+          "hd": 2012,
+          "tb": 839560
+        },
+        {
+          "kenh": "Grab",
+          "dt": 65796790,
+          "hd": 160,
+          "tb": 411230
+        },
+        {
+          "kenh": "Shopee",
+          "dt": 27487100,
+          "hd": 68,
+          "tb": 404222
+        },
+        {
+          "kenh": "UOB",
+          "dt": 0,
+          "hd": 0,
+          "tb": 0
+        }
+      ],
+      "gia_tri_hoa_don": [
+        {
+          "nhom": "<100k",
+          "sl": 22
+        },
+        {
+          "nhom": "100–200k",
+          "sl": 114
+        },
+        {
+          "nhom": "200–300k",
+          "sl": 127
+        },
+        {
+          "nhom": "300–500k",
+          "sl": 363
+        },
+        {
+          "nhom": "500k–1M",
+          "sl": 1112
+        },
+        {
+          "nhom": ">1M",
+          "sl": 502
+        }
+      ]
+    },
+    "mk": {
+      "nhan": "70 Nguyễn Thị Minh Khai",
+      "chi_so": {
+        "tong_doanh_thu": 925358509,
+        "tong_hoa_don": 1105,
+        "tb_hoa_don": 837428,
+        "tb_doanh_thu_ngay": 29850274,
+        "tb_hoa_don_ngay": 35.6,
+        "so_ngay": 31
+      },
+      "theo_ngay": [
+        {
+          "ngay": "1/8",
+          "dt": 22721930
+        },
+        {
+          "ngay": "2/8",
+          "dt": 26356345
+        },
+        {
+          "ngay": "3/8",
+          "dt": 20248900
+        },
+        {
+          "ngay": "4/8",
+          "dt": 31591680
+        },
+        {
+          "ngay": "5/8",
+          "dt": 28886184
+        },
+        {
+          "ngay": "6/8",
+          "dt": 24286560
+        },
+        {
+          "ngay": "7/8",
+          "dt": 31183810
+        },
+        {
+          "ngay": "8/8",
+          "dt": 25788210
+        },
+        {
+          "ngay": "9/8",
+          "dt": 30641900
+        },
+        {
+          "ngay": "10/8",
+          "dt": 23663780
+        },
+        {
+          "ngay": "11/8",
+          "dt": 25740430
+        },
+        {
+          "ngay": "12/8",
+          "dt": 37216720
+        },
+        {
+          "ngay": "13/8",
+          "dt": 46513410
+        },
+        {
+          "ngay": "14/8",
+          "dt": 40161205
+        },
+        {
+          "ngay": "15/8",
+          "dt": 39113120
+        },
+        {
+          "ngay": "16/8",
+          "dt": 32842300
+        },
+        {
+          "ngay": "17/8",
+          "dt": 24914090
+        },
+        {
+          "ngay": "18/8",
+          "dt": 31816940
+        },
+        {
+          "ngay": "19/8",
+          "dt": 34133890
+        },
+        {
+          "ngay": "20/8",
+          "dt": 31684480
+        },
+        {
+          "ngay": "21/8",
+          "dt": 35447240
+        },
+        {
+          "ngay": "22/8",
+          "dt": 35984050
+        },
+        {
+          "ngay": "23/8",
+          "dt": 35916440
+        },
+        {
+          "ngay": "24/8",
+          "dt": 25760580
+        },
+        {
+          "ngay": "25/8",
+          "dt": 27365860
+        },
+        {
+          "ngay": "26/8",
+          "dt": 29231285
+        },
+        {
+          "ngay": "27/8",
+          "dt": 24964930
+        },
+        {
+          "ngay": "28/8",
+          "dt": 777600
+        },
+        {
+          "ngay": "29/8",
+          "dt": 55947840
+        },
+        {
+          "ngay": "30/8",
+          "dt": 16902900
+        },
+        {
+          "ngay": "31/8",
+          "dt": 27553900
+        }
+      ],
+      "theo_gio": [
+        {
+          "gio": 9,
+          "hd": 1,
+          "dt": 2666700,
+          "tb": 2666700
+        },
+        {
+          "gio": 10,
+          "hd": 7,
+          "dt": 7084780,
+          "tb": 1012111
+        },
+        {
+          "gio": 11,
+          "hd": 25,
+          "dt": 16544220,
+          "tb": 661769
+        },
+        {
+          "gio": 12,
+          "hd": 177,
+          "dt": 168104404,
+          "tb": 949742
+        },
+        {
+          "gio": 13,
+          "hd": 190,
+          "dt": 170736600,
+          "tb": 898614
+        },
+        {
+          "gio": 14,
+          "hd": 57,
+          "dt": 39575400,
+          "tb": 694305
+        },
+        {
+          "gio": 15,
+          "hd": 25,
+          "dt": 15236720,
+          "tb": 609469
+        },
+        {
+          "gio": 16,
+          "hd": 26,
+          "dt": 16277400,
+          "tb": 626054
+        },
+        {
+          "gio": 17,
+          "hd": 19,
+          "dt": 17986740,
+          "tb": 946671
+        },
+        {
+          "gio": 18,
+          "hd": 62,
+          "dt": 40580500,
+          "tb": 654524
+        },
+        {
+          "gio": 19,
+          "hd": 144,
+          "dt": 131574870,
+          "tb": 913714
+        },
+        {
+          "gio": 20,
+          "hd": 194,
+          "dt": 173298235,
+          "tb": 893290
+        },
+        {
+          "gio": 21,
+          "hd": 172,
+          "dt": 121385440,
+          "tb": 705729
+        },
+        {
+          "gio": 22,
+          "hd": 6,
+          "dt": 4306500,
+          "tb": 717750
+        }
+      ],
+      "thu_trong_tuan": [
+        {
+          "thu": "T2",
+          "dt": 122141250,
+          "hd": 141,
+          "tb": 866250
+        },
+        {
+          "thu": "T3",
+          "dt": 116514910,
+          "hd": 142,
+          "tb": 820528
+        },
+        {
+          "thu": "T4",
+          "dt": 129468079,
+          "hd": 157,
+          "tb": 824637
+        },
+        {
+          "thu": "T5",
+          "dt": 127449380,
+          "hd": 160,
+          "tb": 796559
+        },
+        {
+          "thu": "T6",
+          "dt": 107569855,
+          "hd": 131,
+          "tb": 821144
+        },
+        {
+          "thu": "T7",
+          "dt": 179555150,
+          "hd": 204,
+          "tb": 880172
+        },
+        {
+          "thu": "CN",
+          "dt": 142659885,
+          "hd": 170,
+          "tb": 839176
+        }
+      ],
+      "ngay_thuong_cuoi_tuan": [
+        {
+          "loai": "Ngày thường",
+          "dt": 603143474,
+          "hd": 731,
+          "tb": 825093
+        },
+        {
+          "loai": "Cuối tuần",
+          "dt": 322215035,
+          "hd": 374,
+          "tb": 861537
+        }
+      ],
+      "buoi": [
+        {
+          "buoi": "Buổi trưa (10–15h)",
+          "dt": 402045404,
+          "hd": 456,
+          "tb": 881678
+        },
+        {
+          "buoi": "Buổi tối (17–22h)",
+          "dt": 489132285,
+          "hd": 597,
+          "tb": 819317
+        }
+      ],
+      "buoi_ngay": [
+        {
+          "nhan": "Trưa ngày thường",
+          "dt": 292779814,
+          "hd": 335,
+          "tb": 873969
+        },
+        {
+          "nhan": "Trưa cuối tuần",
+          "dt": 109265590,
+          "hd": 121,
+          "tb": 903021
+        },
+        {
+          "nhan": "Tối ngày thường",
+          "dt": 294327640,
+          "hd": 371,
+          "tb": 793335
+        },
+        {
+          "nhan": "Tối cuối tuần",
+          "dt": 194804645,
+          "hd": 226,
+          "tb": 861967
+        }
+      ],
+      "kenh": [
+        {
+          "kenh": "Tại quán",
+          "dt": 868185609,
+          "hd": 972,
+          "tb": 893195
+        },
+        {
+          "kenh": "Grab",
+          "dt": 39101400,
+          "hd": 92,
+          "tb": 425015
+        },
+        {
+          "kenh": "Shopee",
+          "dt": 18071500,
+          "hd": 41,
+          "tb": 440768
+        },
+        {
+          "kenh": "UOB",
+          "dt": 0,
+          "hd": 0,
+          "tb": 0
+        }
+      ],
+      "gia_tri_hoa_don": [
+        {
+          "nhom": "<100k",
+          "sl": 13
+        },
+        {
+          "nhom": "100–200k",
+          "sl": 48
+        },
+        {
+          "nhom": "200–300k",
+          "sl": 50
+        },
+        {
+          "nhom": "300–500k",
+          "sl": 155
+        },
+        {
+          "nhom": "500k–1M",
+          "sl": 573
+        },
+        {
+          "nhom": ">1M",
+          "sl": 266
+        }
+      ]
+    },
+    "pa": {
+      "nhan": "136 Pasteur",
+      "chi_so": {
+        "tong_doanh_thu": 857120964,
+        "tong_hoa_don": 1135,
+        "tb_hoa_don": 755172,
+        "tb_doanh_thu_ngay": 27649063,
+        "tb_hoa_don_ngay": 36.6,
+        "so_ngay": 31
+      },
+      "theo_ngay": [
+        {
+          "ngay": "1/8",
+          "dt": 30651790
+        },
+        {
+          "ngay": "2/8",
+          "dt": 31965945
+        },
+        {
+          "ngay": "3/8",
+          "dt": 23362540
+        },
+        {
+          "ngay": "4/8",
+          "dt": 30167700
+        },
+        {
+          "ngay": "5/8",
+          "dt": 23870854
+        },
+        {
+          "ngay": "6/8",
+          "dt": 22417000
+        },
+        {
+          "ngay": "7/8",
+          "dt": 26474580
+        },
+        {
+          "ngay": "8/8",
+          "dt": 34401140
+        },
+        {
+          "ngay": "9/8",
+          "dt": 27892755
+        },
+        {
+          "ngay": "10/8",
+          "dt": 31604680
+        },
+        {
+          "ngay": "11/8",
+          "dt": 33697640
+        },
+        {
+          "ngay": "12/8",
+          "dt": 34710040
+        },
+        {
+          "ngay": "13/8",
+          "dt": 25908870
+        },
+        {
+          "ngay": "14/8",
+          "dt": 25746640
+        },
+        {
+          "ngay": "15/8",
+          "dt": 42242870
+        },
+        {
+          "ngay": "16/8",
+          "dt": 28435524
+        },
+        {
+          "ngay": "17/8",
+          "dt": 16251060
+        },
+        {
+          "ngay": "18/8",
+          "dt": 24018534
+        },
+        {
+          "ngay": "19/8",
+          "dt": 20024240
+        },
+        {
+          "ngay": "20/8",
+          "dt": 23411575
+        },
+        {
+          "ngay": "21/8",
+          "dt": 37786220
+        },
+        {
+          "ngay": "22/8",
+          "dt": 29031370
+        },
+        {
+          "ngay": "23/8",
+          "dt": 24484905
+        },
+        {
+          "ngay": "24/8",
+          "dt": 13095160
+        },
+        {
+          "ngay": "25/8",
+          "dt": 22996890
+        },
+        {
+          "ngay": "26/8",
+          "dt": 22645000
+        },
+        {
+          "ngay": "27/8",
+          "dt": 30159580
+        },
+        {
+          "ngay": "28/8",
+          "dt": 14980860
+        },
+        {
+          "ngay": "29/8",
+          "dt": 42494000
+        },
+        {
+          "ngay": "30/8",
+          "dt": 43631882
+        },
+        {
+          "ngay": "31/8",
+          "dt": 18559120
+        }
+      ],
+      "theo_gio": [
+        {
+          "gio": 10,
+          "hd": 3,
+          "dt": 4926100,
+          "tb": 1642033
+        },
+        {
+          "gio": 11,
+          "hd": 34,
+          "dt": 21714350,
+          "tb": 638657
+        },
+        {
+          "gio": 12,
+          "hd": 97,
+          "dt": 69351720,
+          "tb": 714966
+        },
+        {
+          "gio": 13,
+          "hd": 131,
+          "dt": 123430835,
+          "tb": 942220
+        },
+        {
+          "gio": 14,
+          "hd": 82,
+          "dt": 63041040,
+          "tb": 768793
+        },
+        {
+          "gio": 15,
+          "hd": 44,
+          "dt": 26203910,
+          "tb": 595543
+        },
+        {
+          "gio": 16,
+          "hd": 38,
+          "dt": 20671760,
+          "tb": 543994
+        },
+        {
+          "gio": 17,
+          "hd": 53,
+          "dt": 27459780,
+          "tb": 518109
+        },
+        {
+          "gio": 18,
+          "hd": 98,
+          "dt": 69464522,
+          "tb": 708822
+        },
+        {
+          "gio": 19,
+          "hd": 177,
+          "dt": 126275725,
+          "tb": 713422
+        },
+        {
+          "gio": 20,
+          "hd": 227,
+          "dt": 188276122,
+          "tb": 829410
+        },
+        {
+          "gio": 21,
+          "hd": 141,
+          "dt": 107572200,
+          "tb": 762923
+        },
+        {
+          "gio": 22,
+          "hd": 10,
+          "dt": 8732900,
+          "tb": 873290
+        }
+      ],
+      "thu_trong_tuan": [
+        {
+          "thu": "T2",
+          "dt": 102872560,
+          "hd": 139,
+          "tb": 740090
+        },
+        {
+          "thu": "T3",
+          "dt": 110880764,
+          "hd": 140,
+          "tb": 792005
+        },
+        {
+          "thu": "T4",
+          "dt": 101250134,
+          "hd": 136,
+          "tb": 744486
+        },
+        {
+          "thu": "T5",
+          "dt": 101897025,
+          "hd": 141,
+          "tb": 722674
+        },
+        {
+          "thu": "T6",
+          "dt": 104988300,
+          "hd": 129,
+          "tb": 813863
+        },
+        {
+          "thu": "T7",
+          "dt": 178821170,
+          "hd": 242,
+          "tb": 738930
+        },
+        {
+          "thu": "CN",
+          "dt": 156411011,
+          "hd": 208,
+          "tb": 751976
+        }
+      ],
+      "ngay_thuong_cuoi_tuan": [
+        {
+          "loai": "Ngày thường",
+          "dt": 521888783,
+          "hd": 685,
+          "tb": 761881
+        },
+        {
+          "loai": "Cuối tuần",
+          "dt": 335232181,
+          "hd": 450,
+          "tb": 744960
+        }
+      ],
+      "buoi": [
+        {
+          "buoi": "Buổi trưa (10–15h)",
+          "dt": 282464045,
+          "hd": 347,
+          "tb": 814017
+        },
+        {
+          "buoi": "Buổi tối (17–22h)",
+          "dt": 527781249,
+          "hd": 706,
+          "tb": 747565
+        }
+      ],
+      "buoi_ngay": [
+        {
+          "nhan": "Trưa ngày thường",
+          "dt": 173854320,
+          "hd": 207,
+          "tb": 839875
+        },
+        {
+          "nhan": "Trưa cuối tuần",
+          "dt": 108609725,
+          "hd": 140,
+          "tb": 775783
+        },
+        {
+          "nhan": "Tối ngày thường",
+          "dt": 318864353,
+          "hd": 430,
+          "tb": 741545
+        },
+        {
+          "nhan": "Tối cuối tuần",
+          "dt": 208916896,
+          "hd": 276,
+          "tb": 756945
+        }
+      ],
+      "kenh": [
+        {
+          "kenh": "Tại quán",
+          "dt": 821009974,
+          "hd": 1040,
+          "tb": 789433
+        },
+        {
+          "kenh": "Grab",
+          "dt": 26695390,
+          "hd": 68,
+          "tb": 392579
+        },
+        {
+          "kenh": "Shopee",
+          "dt": 9415600,
+          "hd": 27,
+          "tb": 348726
+        },
+        {
+          "kenh": "UOB",
+          "dt": 0,
+          "hd": 0,
+          "tb": 0
+        }
+      ],
+      "gia_tri_hoa_don": [
+        {
+          "nhom": "<100k",
+          "sl": 9
+        },
+        {
+          "nhom": "100–200k",
+          "sl": 66
+        },
+        {
+          "nhom": "200–300k",
+          "sl": 77
+        },
+        {
+          "nhom": "300–500k",
+          "sl": 208
+        },
+        {
+          "nhom": "500k–1M",
+          "sl": 539
+        },
+        {
+          "nhom": ">1M",
+          "sl": 236
+        }
+      ]
+    }
+  },
+  "nhan_xet": {
+    "ca2": [
+      {
+        "bieu_tuong": "↓",
+        "tieu_de": "Doanh thu giảm 1.4% so tháng trước",
+        "noi_dung": "Hoá đơn giảm 2.7%, TB hoá đơn tăng 1.4% (785k → 796k)."
+      },
+      {
+        "bieu_tuong": "▲",
+        "tieu_de": "T7 dẫn đầu tuần: 358 tr, 446 hoá đơn",
+        "noi_dung": "TB hoá đơn T7: 804k."
+      },
+      {
+        "bieu_tuong": "★",
+        "tieu_de": "T6 có TB hoá đơn cao nhất: 818k",
+        "noi_dung": "260 hoá đơn. Tệp khách ngày này chi tiêu mạnh nhất trong tuần."
+      },
+      {
+        "bieu_tuong": "◆",
+        "tieu_de": "Giờ vàng 19–21h chiếm 48% doanh thu",
+        "noi_dung": "Đỉnh tại 20h: 421 hoá đơn, 362 tr."
+      },
+      {
+        "bieu_tuong": "◉",
+        "tieu_de": "Trưa ngày thường: TB hoá đơn cao nhất 861k",
+        "noi_dung": "542 hoá đơn, 467 tr tổng."
+      },
+      {
+        "bieu_tuong": "■",
+        "tieu_de": "72% hoá đơn vượt 500k đồng",
+        "noi_dung": "1614/2240 hoá đơn — phân khúc chi tiêu cao chiếm ưu thế."
+      },
+      {
+        "bieu_tuong": "↓",
+        "tieu_de": "Giao hàng: Grab 160 hoá đơn, Shopee 68 hoá đơn",
+        "noi_dung": "TB Grab 411k, Shopee 404k — thấp hơn ~50% so tại quán."
+      }
+    ],
+    "mk": [
+      {
+        "bieu_tuong": "▲",
+        "tieu_de": "Doanh thu tăng 2.5% so tháng trước",
+        "noi_dung": "Hoá đơn tăng 1.1%, TB hoá đơn tăng 1.3% (826k → 837k)."
+      },
+      {
+        "bieu_tuong": "▲",
+        "tieu_de": "T7 dẫn đầu tuần: 180 tr, 204 hoá đơn",
+        "noi_dung": "TB hoá đơn T7: 880k."
+      },
+      {
+        "bieu_tuong": "◆",
+        "tieu_de": "Giờ vàng 19–21h chiếm 46% doanh thu",
+        "noi_dung": "Đỉnh tại 20h: 194 hoá đơn, 173 tr."
+      },
+      {
+        "bieu_tuong": "◉",
+        "tieu_de": "Trưa cuối tuần: TB hoá đơn cao nhất 903k",
+        "noi_dung": "121 hoá đơn, 109 tr tổng."
+      },
+      {
+        "bieu_tuong": "■",
+        "tieu_de": "76% hoá đơn vượt 500k đồng",
+        "noi_dung": "839/1105 hoá đơn — phân khúc chi tiêu cao chiếm ưu thế."
+      },
+      {
+        "bieu_tuong": "↓",
+        "tieu_de": "Giao hàng: Grab 92 hoá đơn, Shopee 41 hoá đơn",
+        "noi_dung": "TB Grab 425k, Shopee 441k — thấp hơn ~50% so tại quán."
+      }
+    ],
+    "pa": [
+      {
+        "bieu_tuong": "↓",
+        "tieu_de": "Doanh thu giảm 5.2% so tháng trước",
+        "noi_dung": "Hoá đơn giảm 6.2%, TB hoá đơn tăng 1.1% (747k → 755k)."
+      },
+      {
+        "bieu_tuong": "▲",
+        "tieu_de": "T7 dẫn đầu tuần: 179 tr, 242 hoá đơn",
+        "noi_dung": "TB hoá đơn T7: 739k."
+      },
+      {
+        "bieu_tuong": "★",
+        "tieu_de": "T6 có TB hoá đơn cao nhất: 814k",
+        "noi_dung": "129 hoá đơn. Tệp khách ngày này chi tiêu mạnh nhất trong tuần."
+      },
+      {
+        "bieu_tuong": "◆",
+        "tieu_de": "Giờ vàng 19–21h chiếm 49% doanh thu",
+        "noi_dung": "Đỉnh tại 20h: 227 hoá đơn, 188 tr."
+      },
+      {
+        "bieu_tuong": "◉",
+        "tieu_de": "Trưa ngày thường: TB hoá đơn cao nhất 840k",
+        "noi_dung": "207 hoá đơn, 174 tr tổng."
+      },
+      {
+        "bieu_tuong": "■",
+        "tieu_de": "68% hoá đơn vượt 500k đồng",
+        "noi_dung": "775/1135 hoá đơn — phân khúc chi tiêu cao chiếm ưu thế."
+      },
+      {
+        "bieu_tuong": "↓",
+        "tieu_de": "Giao hàng: Grab 68 hoá đơn, Shopee 27 hoá đơn",
+        "noi_dung": "TB Grab 393k, Shopee 349k — thấp hơn ~50% so tại quán."
+      }
+    ]
+  },
+  "goi_y_tang_truong": {
+    "ca2": {
+      "lam-ngay": [
+        {
+          "t": "Rà soát nguyên nhân Pasteur giảm lượng khách",
+          "n": "Pasteur giảm 75 hóa đơn so với T7 (1.210→1.135, -6,2%) trong khi TB hóa đơn gần như không đổi — đây là vấn đề lượng khách/traffic, không phải giá trị đơn hàng. Cần kiểm tra lịch hoạt động, cạnh tranh khu vực, hoặc gián đoạn vận hành trong tháng.",
+          "s": "PA -75 hóa đơn (-6,2%)"
+        },
+        {
+          "t": "Nhân rộng đà tăng ổn định của Minh Khai sang Pasteur",
+          "n": "Minh Khai tăng đều cả doanh thu (+2,5%) và số hóa đơn (+12) — mô hình vận hành/marketing đang hiệu quả tại đây có thể áp dụng thử tại Pasteur.",
+          "s": "MK +2,5% doanh thu, +12 hóa đơn"
+        }
+      ],
+      "dat-cuoc": [
+        {
+          "t": "Xây gói ưu đãi khung Tối ngày thường",
+          "n": "Tối ngày thường là khung lớn nhất ở cả 2 cơ sở (MK: 294,3tr/371hd, PA: 318,9tr/430hd) nhưng TB hóa đơn thấp hơn các khung khác — dư địa tăng giá trị đơn thông qua combo/upsell tại khung này rất lớn vì đã có sẵn lượng khách.",
+          "s": "2 cơ sở cộng lại ~613tr từ khung Tối ngày thường"
+        },
+        {
+          "t": "Phát triển kênh giao hàng có kiểm soát",
+          "n": "Grab+Shopee chỉ chiếm ~13% hóa đơn nhưng TB hóa đơn thấp hơn tại quán ~50% — nên đầu tư có chọn lọc (món phù hợp giao hàng) thay vì mở rộng đại trà.",
+          "s": "228 hóa đơn giao hàng, TB thấp hơn tại quán ~50%"
+        }
+      ],
+      "chinh-sua": [
+        {
+          "t": "Theo dõi tỷ lệ hóa đơn giá trị cao đang giảm nhẹ ở Pasteur",
+          "n": "68% hóa đơn Pasteur vượt 500k, thấp hơn Minh Khai (76%) — chênh lệch này cộng với lượng khách giảm cho thấy Pasteur cần cả 2 hướng: kéo khách quay lại và nâng giá trị đơn.",
+          "s": "PA 68% vs MK 76% hóa đơn >500k"
+        }
+      ],
+      "theo-doi": [
+        {
+          "t": "Theo dõi liệu đà giảm của Pasteur có tiếp diễn sang T9",
+          "n": "Nếu Pasteur tiếp tục giảm hóa đơn trong tháng tới, cần can thiệp chủ động thay vì chỉ theo dõi — hiện tại chưa đủ dữ liệu để xác định đây là biến động ngắn hạn hay xu hướng.",
+          "s": "Cần xác nhận qua T9"
+        }
+      ]
+    },
+    "mk": {
+      "lam-ngay": [
+        {
+          "t": "Đẩy mạnh khung Trưa cuối tuần — TB hóa đơn cao nhất",
+          "n": "Trưa cuối tuần có TB hóa đơn cao nhất trong 4 khung tại Minh Khai (903k) dù doanh thu chưa phải lớn nhất — tăng cường quảng bá khung này có thể tận dụng xu hướng chi tiêu sẵn có.",
+          "s": "TB 903k/hóa đơn, cao nhất 4 khung"
+        }
+      ],
+      "dat-cuoc": [
+        {
+          "t": "Nhân rộng mô hình tăng trưởng ổn định sang các khung khác",
+          "n": "Minh Khai tăng đều +2,5% doanh thu và +12 hóa đơn — không có khung nào sụt giảm rõ rệt, phù hợp để thử nghiệm sáng kiến mới (set mới, giờ khuyến mãi) vì nền tảng đang ổn định.",
+          "s": "+2,5% doanh thu, không khung nào giảm"
+        }
+      ],
+      "chinh-sua": [
+        {
+          "t": "Giờ vàng 19-21h chiếm 46% doanh thu — thấp hơn Pasteur (49%)",
+          "n": "Cân nhắc xem lại bố trí nhân sự/sức chứa khung tối để tăng tỷ trọng giờ vàng, học hỏi cách vận hành hiệu quả của Pasteur trong khung này.",
+          "s": "46% doanh thu giờ vàng (PA: 49%)"
+        }
+      ],
+      "theo-doi": [
+        {
+          "t": "Theo dõi kênh giao hàng đang tăng dần",
+          "n": "133 hóa đơn từ Grab+Shopee tại Minh Khai — chưa lớn nhưng cần theo dõi tốc độ tăng để quyết định đầu tư thêm vào kênh này hay không.",
+          "s": "133 hóa đơn giao hàng"
+        }
+      ]
+    },
+    "pa": {
+      "lam-ngay": [
+        {
+          "t": "Ưu tiên hàng đầu: khôi phục lượng khách đã mất",
+          "n": "Pasteur mất 75 hóa đơn so với T7 (-6,2%) — đây là vấn đề cấp bách nhất của cả thương hiệu tháng này. Cần chương trình kéo khách quay lại (khuyến mãi có thời hạn, nhắc lại qua kênh đã có) trước khi tìm giải pháp dài hạn.",
+          "s": "-75 hóa đơn (-6,2%) so T7"
+        }
+      ],
+      "dat-cuoc": [
+        {
+          "t": "Tận dụng giờ vàng đang hiệu quả nhất hệ thống",
+          "n": "Giờ vàng 19-21h tại Pasteur chiếm 49% doanh thu — cao nhất trong 3 view (ca2 48%, MK 46%) — đầu tư mở rộng công suất phục vụ khung này có thể mang lại hiệu quả cao nhất trên toàn hệ thống.",
+          "s": "49% doanh thu giờ vàng — cao nhất hệ thống"
+        }
+      ],
+      "chinh-sua": [
+        {
+          "t": "Rà soát vận hành Tối ngày thường — khung lớn nhất nhưng TB hóa đơn thấp",
+          "n": "Tối ngày thường đóng góp nhiều hóa đơn nhất (430) nhưng TB hóa đơn (741k) thấp nhất trong 4 khung — có thể do khách đơn lẻ nhiều, cần xem xét gợi ý bán thêm tại khung này.",
+          "s": "430 hóa đơn, TB thấp nhất (741k)"
+        }
+      ],
+      "theo-doi": [
+        {
+          "t": "Theo dõi tỷ lệ hóa đơn >500k đang thấp hơn Minh Khai",
+          "n": "68% hóa đơn Pasteur vượt 500k so với 76% tại Minh Khai — theo dõi xem đây có phải đặc thù tệp khách khu vực hay dấu hiệu cần điều chỉnh giá/menu.",
+          "s": "68% vs 76% (MK)"
+        }
+      ]
+    }
+  }
+}
